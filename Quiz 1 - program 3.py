@@ -1,4 +1,4 @@
-# Type your code here
+# Conditional code sample
 user_response = input("Please enter an integer between 1 and 7: ")
 day_index = int(user_response)
 days = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
