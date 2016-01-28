@@ -1,4 +1,4 @@
-# Type your code here
+# Sample code to take input from user and return a value
 user_response = input("Please enter your age in years: ")
 age_in_years = int(user_response) # or float(user_response)
 age_in_days = age_in_years * 365
